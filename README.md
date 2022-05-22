@@ -3,6 +3,7 @@ A bot for running shell commands in Discord
 
 
 **HOW TO SET UP**
+
  git clone https://github.com/toastxc/Rust-Discord-Shell.git
 cd Rust-Discord-Shell
 cargo build
