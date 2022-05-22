@@ -9,6 +9,7 @@ cd Rust-Discord-Shell
 cargo build
 
 **you will need to modify the content of this program for it to operate specifically...**
+
 line 9: Discord bot's token
 
 line 22: Discord user's ID
